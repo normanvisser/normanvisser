@@ -5,7 +5,7 @@ I'm from Amsterdam, the Netherlands. I'm a neuropsychology graduate and after ye
 Recently I finished the Full Stack Developer Bootcamp by Codaisseur at Amsterdam. Here I've developed a great set of technical skills and I'm looking forward on elaborating on them!
 
 #### Tech Stack
-<img src="{https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB}" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 
 
 <!--
