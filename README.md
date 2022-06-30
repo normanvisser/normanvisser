@@ -17,8 +17,9 @@ Recently I finished the Full Stack Developer Bootcamp by Codaisseur at Amsterdam
 
 #### Projects
 
-:bar_chart::books: <b>Fairfield Admin</b>
+:bar_chart: :books: :school:
+<b>Fairfield Admin</b>
 For the final project of the bootcamp I decided to build an admin/bookkeeping webapp for the language school I used to work for. The administration of this school was spread over multiple files in multiple locations and often they contained large excel spreadsheets. It works, but there's a lot of room for improvement and I wanted to optimize it by putting everything together in one app that displays the information neatly. 
-It's built using JS, React, Redux, NodeJS, PostgreSQL and Sequelize. The project is still in development, but the MVP is available.
+It's built using JS, React, Redux, NodeJS, PostgreSQL and Sequelize. The project is still in development, but the core features are functional.
 
 
