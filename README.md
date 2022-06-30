@@ -1,6 +1,6 @@
 ## Hi there! :wave:
 
-My name is Norman Visser and I'm from Amsterdam, the Netherlands. After having graduated as a Clinical Neuropsychologist years of working in the social field I decided to turn things around by going into coding. 
+My name is Norman Visser and I'm from Amsterdam, the Netherlands. After having graduated as a Clinical Neuropsychologist and having worked for years in the social field I decided to turn things around by going into coding. 
 
 Recently I finished the Full Stack Developer Bootcamp by Codaisseur at Amsterdam. Here I've developed a great set of technical skills and I'm looking forward on elaborating on them.
 
