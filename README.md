@@ -1,8 +1,8 @@
-### Hi there, I am Norman
+### Hi there! :wave:
 
-I'm from Amsterdam, the Netherlands. I'm a neuropsychology graduate and after years of working in the social field I decided to turn things around by getting into coding. 
+My name is Norman Visser and I'm from Amsterdam, the Netherlands. After having graduated as a Clinical Neuropsychologist years of working in the social field I decided to turn things around by going into coding. 
 
-Recently I finished the Full Stack Developer Bootcamp by Codaisseur at Amsterdam. Here I've developed a great set of technical skills and I'm looking forward on elaborating on them!
+Recently I finished the Full Stack Developer Bootcamp by Codaisseur at Amsterdam. Here I've developed a great set of technical skills and I'm looking forward on elaborating on them.
 
 #### Tech Stack
 
@@ -22,4 +22,4 @@ Recently I finished the Full Stack Developer Bootcamp by Codaisseur at Amsterdam
 For the final project of the bootcamp I decided to build an admin/bookkeeping webapp for the language school I used to work for. The administration of this school was spread over multiple files in multiple locations and often they contained large excel spreadsheets. It works, but there's a lot of room for improvement and I wanted to optimize it by putting everything together in one app that displays the information neatly. 
 It's built using JS, React, Redux, NodeJS, PostgreSQL and Sequelize. The project is still in development, but the core features are functional.
 
-
+[client](google.com)
